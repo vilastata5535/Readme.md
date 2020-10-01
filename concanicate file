@@ -1,0 +1,5 @@
+str1 = ""
+some_list = ["Welcome ", "To ", "Tutorialspoint "]
+for x in some_list:
+   str1 += x
+print(str1)
